@@ -1,6 +1,6 @@
-=====
-Notes
-=====
+========================
+Tuenti Contest Solutions
+========================
 
 Here you can find my solutions to the challenges of the Tuenti Contest.
 
