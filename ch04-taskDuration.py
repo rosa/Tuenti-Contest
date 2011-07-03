@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import sys
-# sys.setrecursionlimit(100000)
 
 # load task data
 f = open("in", 'r')
